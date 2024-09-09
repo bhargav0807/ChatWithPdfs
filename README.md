@@ -1,4 +1,4 @@
-# Chat PDF Application
+# Chat with Multiple PDFs
 
 Chat PDF Application is a Streamlit-based tool that allows users to interact with PDF documents through a chat interface. Users can upload multiple PDFs, extract and index the text, and then ask questions related to the content of these PDFs to receive detailed answers. The application also provides information about the source PDF(s) related to the answers.
 
