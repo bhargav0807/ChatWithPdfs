@@ -47,6 +47,11 @@ This Application is a Streamlit-based tool that allows users to interact with PD
     GOOGLE_API_KEY=your_google_api_key
     ```
 
+    Follow below steps to get a GOOGLE_API_KEY:
+   - Go to [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+   - Click on "Create API key"
+   - Copy the created API key and replace it at "your_google_api_key".
+
 ## Usage
 
 1. **Start the Streamlit Application**
